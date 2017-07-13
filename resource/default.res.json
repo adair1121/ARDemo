@@ -1,0 +1,20 @@
+{
+	"groups": [
+		{
+			"keys": "description_json,mv_mo_jpg",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "mv_mo_jpg",
+			"type": "image",
+			"url": "assets/mv_mo.jpg"
+		}
+	]
+}

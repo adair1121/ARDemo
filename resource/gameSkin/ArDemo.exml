@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="ArDemo" width="640" height="960" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image id="mo" source="mv_mo_jpg" x="51" y="564" scaleX="0.2" scaleY="0.2"/>
+	<e:Label text="随便做个交互~~点我~" x="146" y="24" anchorOffsetX="0" width="348" anchorOffsetY="0" height="52"/>
+</e:Skin>
